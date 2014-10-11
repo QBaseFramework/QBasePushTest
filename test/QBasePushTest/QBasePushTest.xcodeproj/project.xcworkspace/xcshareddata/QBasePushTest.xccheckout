@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E5894E76-8E9C-4021-A021-7D1F01B7093D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QBasePushTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>544B29CF-DA60-4DA7-932B-62687C209B99</key>
+		<string>ssh://github.com/QBaseFramework/QBasePush.git</string>
+		<key>CC851791-E45D-4E59-9E74-82596E10856F</key>
+		<string>https://github.com/QBaseFramework/QBasePushTest</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>test/QBasePushTest/QBasePushTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>544B29CF-DA60-4DA7-932B-62687C209B99</key>
+		<string>../../../../QBasePush</string>
+		<key>CC851791-E45D-4E59-9E74-82596E10856F</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/QBaseFramework/QBasePushTest</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CC851791-E45D-4E59-9E74-82596E10856F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>544B29CF-DA60-4DA7-932B-62687C209B99</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QBasePush</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CC851791-E45D-4E59-9E74-82596E10856F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QBasePushTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>

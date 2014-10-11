@@ -1,0 +1,3 @@
+[submodule "QBasePush"]
+	path = QBasePush
+	url = git@github.com:QBaseFramework/QBasePush.git
